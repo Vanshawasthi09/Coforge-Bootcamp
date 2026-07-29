@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","7","setup","Failed suite [Suite]","2026-07-21","broken","2026-07-21","Navigation.Commands.BrowserNavigationTest","Test(failed)","Navigation.Commands.BrowserNavigationTest","setup"
+"","3912","NavigateForward","Suite","2026-07-20","passed","2026-07-20","Navigation.Commands.NavigationMethod","Test","Navigation.Commands.NavigationMethod","NavigateForward"
+"","4000","RefreshMethod","Suite","2026-07-20","passed","2026-07-20","Navigation.Commands.NavigationMethod","Test","Navigation.Commands.NavigationMethod","RefreshMethod"
+"","3","navigateTest","Failed suite [Suite]","2026-07-21","skipped","2026-07-21","Navigation.Commands.BrowserNavigationTest","Test(failed)","Navigation.Commands.BrowserNavigationTest","navigateTest"
+"","7011","NavigateBackDemo","Suite","2026-07-20","passed","2026-07-20","Navigation.Commands.NavigationMethod","Test","Navigation.Commands.NavigationMethod","NavigateBackDemo"
+"","5769","NavigateDemo","Suite","2026-07-20","passed","2026-07-20","Navigation.Commands.NavigationMethod","Test","Navigation.Commands.NavigationMethod","NavigateDemo"
