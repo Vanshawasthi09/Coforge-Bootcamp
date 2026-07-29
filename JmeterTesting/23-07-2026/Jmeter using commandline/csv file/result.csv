@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1784785162193,998,Gui ,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,14907,114,6,6,https://octoperf.com/,960,0,532
+1784785162533,659,Gui ,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,14906,114,6,6,https://octoperf.com/,608,0,193
+1784785162332,860,Gui ,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,14906,114,6,6,https://octoperf.com/,809,0,400
+1784785162727,465,Gui ,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,14906,114,6,6,https://octoperf.com/,427,0,90
+1784785163131,419,Gui ,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,14906,114,8,8,https://octoperf.com/,363,0,211
+1784785162931,624,Gui ,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,14907,114,8,8,https://octoperf.com/,564,0,133
+1784785163332,664,Gui ,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,14907,114,10,10,https://octoperf.com/,589,0,174
+1784785163527,470,Gui ,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,14906,114,10,10,https://octoperf.com/,405,0,127
+1784785163729,460,Gui ,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,14907,114,10,10,https://octoperf.com/,378,0,112
+1784785163928,587,Gui ,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,14907,114,10,10,https://octoperf.com/,583,0,192
+1784785163551,2698,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,47772,246,10,10,https://www.easycalculation.com/,1069,0,764
+1784785163551,1070,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-6,text,true,,362,121,10,10,https://easycalculation.com/,1069,0,764
+1784785164621,1628,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,47410,125,10,10,https://www.easycalculation.com/,1019,0,663
+1784785163200,3067,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,47772,246,10,10,https://www.easycalculation.com/,1476,0,1130
+1784785163200,1476,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-3,text,true,,362,121,10,10,https://easycalculation.com/,1476,0,1130
+1784785164678,1589,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,47410,125,10,10,https://www.easycalculation.com/,1470,0,651
+1784785163200,3354,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,47772,246,10,10,https://www.easycalculation.com/,1429,0,1129
+1784785163200,1429,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-2,text,true,,362,121,10,10,https://easycalculation.com/,1429,0,1129
+1784785164630,1924,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,47410,125,10,10,https://www.easycalculation.com/,1778,0,776
+1784785163557,3234,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,47772,246,10,10,https://www.easycalculation.com/,1039,0,738
+1784785163557,1040,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-5,text,true,,362,121,10,10,https://easycalculation.com/,1039,0,738
+1784785164600,2191,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,47410,125,10,10,https://www.easycalculation.com/,2069,0,825
+1784785163999,3062,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,47772,246,10,10,https://www.easycalculation.com/,1000,0,693
+1784785163999,1000,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-7,text,true,,362,121,10,10,https://easycalculation.com/,1000,0,693
+1784785165003,2058,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,47410,125,10,10,https://www.easycalculation.com/,1917,0,718
+1784785164001,3071,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,47772,246,10,10,https://www.easycalculation.com/,997,0,678
+1784785164001,997,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-8,text,true,,362,121,10,10,https://easycalculation.com/,997,0,678
+1784785165002,2070,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,47410,125,10,10,https://www.easycalculation.com/,1475,0,889
+1784785163200,3877,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,47772,246,10,10,https://www.easycalculation.com/,1423,0,1103
+1784785163200,1423,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-4,text,true,,362,121,10,10,https://easycalculation.com/,1423,0,1103
+1784785164623,2454,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,47410,125,10,10,https://www.easycalculation.com/,1203,0,688
+1784785163200,3878,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,47772,246,10,10,https://www.easycalculation.com/,1477,0,1142
+1784785163200,1477,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-1,text,true,,362,121,10,10,https://easycalculation.com/,1477,0,1142
+1784785164679,2399,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,47410,125,10,10,https://www.easycalculation.com/,1989,0,752
+1784785164191,3081,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,47772,246,10,10,https://www.easycalculation.com/,979,0,688
+1784785164191,979,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-9,text,true,,362,121,10,10,https://easycalculation.com/,979,0,688
+1784785165173,2099,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,47410,125,10,10,https://www.easycalculation.com/,1747,0,933
+1784785166270,1017,example,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,872,113,10,10,https://example.com/,1016,0,928
+1784785166559,728,example,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,872,113,10,10,https://example.com/,727,0,638
+1784785166254,1171,example,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,872,113,10,10,https://example.com/,1163,0,994
+1784785166795,634,example,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,872,113,10,10,https://example.com/,633,0,472
+1784785167082,347,example,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,872,113,10,10,https://example.com/,347,0,247
+1784785167062,479,example,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,872,113,10,10,https://example.com/,479,0,369
+1784785167082,466,example,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,872,113,10,10,https://example.com/,466,0,352
+1784785167075,474,example,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,872,113,10,10,https://example.com/,473,0,361
+1784785167274,370,example,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,872,113,10,10,https://example.com/,369,0,260
+1784785167286,833,W3org,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,54790,112,10,10,https://www.w3.org/,502,0,352
+1784785167430,1082,W3org,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,54790,112,10,10,https://www.w3.org/,640,0,227
+1784785167427,1115,W3org,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,54790,112,10,10,https://www.w3.org/,610,0,230
+1784785167543,1336,W3org,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,54790,112,10,10,https://www.w3.org/,1078,0,211
+1784785167550,1443,W3org,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,54790,112,10,10,https://www.w3.org/,1331,0,321
+1784785167430,1570,W3org,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,54790,112,10,10,https://www.w3.org/,267,0,197
+1784785167286,1743,W3org,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,54790,112,10,10,https://www.w3.org/,777,0,371
+1784785167649,1430,W3org,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,54790,112,10,10,https://www.w3.org/,1381,0,963
+1784785167551,1537,W3org,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,54790,112,10,10,https://www.w3.org/,1084,0,216
+1784785164518,4889,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,47772,246,10,10,https://www.easycalculation.com/,984,0,676
+1784785164518,985,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-10,text,true,,362,121,10,10,https://easycalculation.com/,984,0,676
+1784785165505,3902,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,47410,125,10,10,https://www.easycalculation.com/,3063,0,1653
+1784785168997,1045,info,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,1039,0,796
+1784785168122,1920,info,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,1917,0,1683
+1784785169032,1030,info,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,1029,0,806
+1784785169091,990,info,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,988,0,739
+1784785169082,1044,info,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,1043,0,789
+1784785168546,1599,info,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,1598,0,1365
+1784785168515,1641,info,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,1639,0,1400
+1784785168883,1315,info,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,1314,0,1081
+1784785169003,1284,info,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,1283,0,1008
+1784785170128,395,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-9,text,false,,329,119,10,10,https://www.wikipedia.org/,395,0,258
+1784785170058,481,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-1,text,false,,329,119,10,10,https://www.wikipedia.org/,481,0,334
+1784785170148,403,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-6,text,false,,329,119,10,10,https://www.wikipedia.org/,403,0,259
+1784785170083,506,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-8,text,false,,329,119,10,10,https://www.wikipedia.org/,506,0,335
+1784785170064,535,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-2,text,false,,329,119,10,10,https://www.wikipedia.org/,535,0,364
+1784785170158,442,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-4,text,false,,329,119,10,10,https://www.wikipedia.org/,442,0,305
+1784785170201,399,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-7,text,false,,329,119,10,10,https://www.wikipedia.org/,399,0,278
+1784785170047,554,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-3,text,false,,329,119,10,10,https://www.wikipedia.org/,553,0,387
+1784785170289,451,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-5,text,false,,329,119,10,10,https://www.wikipedia.org/,451,0,306
+1784785169409,1388,example,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,872,113,10,10,https://example.com/,1388,0,1307
+1784785170802,324,W3org,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,54790,112,10,10,https://www.w3.org/,223,0,137
+1784785171129,759,info,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,757,0,502
+1784785170602,1592,httpbin,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,490,116,10,10,https://httpbin.org/get,1592,0,1083
+1784785171892,377,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-10,text,false,,329,119,10,10,https://www.wikipedia.org/,377,0,245
+1784785170542,1813,httpbin,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,490,116,10,10,https://httpbin.org/get,1813,0,1090
+1784785170529,1996,httpbin,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,490,116,10,10,https://httpbin.org/get,1996,0,1155
+1784785170592,2120,httpbin,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,490,116,10,10,https://httpbin.org/get,2119,0,1038
+1784785172195,524,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-2,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,524
+1784785172359,466,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-1,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,466
+1784785170743,2086,httpbin,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,490,116,10,10,https://httpbin.org/get,2086,0,1059
+1784785172529,474,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-9,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,474
+1784785170604,2446,httpbin,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,490,116,10,10,https://httpbin.org/get,2446,0,1073
+1784785170604,2474,httpbin,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,490,116,10,10,https://httpbin.org/get,2474,0,1027
+1784785172714,467,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-8,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,467
+1784785172832,510,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-5,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,510
+1784785173053,485,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-4,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,485
+1784785173080,475,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-3,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,475
+1784785172830,1359,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,1043,0,712
+1784785172725,1540,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,1203,0,817
+1784785173006,1307,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,990,0,638
+1784785173186,1238,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,965,0,660
+1784785173347,1453,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,1017,0,680
+1784785173556,1650,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,1245,0,748
+1784785173542,1666,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,1262,0,819
+1784785172272,3054,httpbin,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,490,116,10,10,https://httpbin.org/get,3054,0,1028
+1784785175329,594,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-10,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,594
+1784785174269,2056,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,1298,0,945
+1784785174316,2036,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,1263,0,898
+1784785174428,2205,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,1120,0,786
+1784785176353,446,Gui ,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,14906,114,10,10,https://octoperf.com/,441,0,0
+1784785176327,472,Gui ,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,14907,114,10,10,https://octoperf.com/,467,0,0
+1784785175209,1759,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,1059,0,716
+1784785174192,2795,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,1364,0,1022
+1784785176635,513,Gui ,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,14907,114,10,10,https://octoperf.com/,471,0,0
+1784785176969,180,Gui ,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,14906,114,10,10,https://octoperf.com/,133,0,0
+1784785176988,367,Gui ,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,14907,114,10,10,https://octoperf.com/,364,0,0
+1784785175924,1474,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,1152,0,778
+1784785174802,2909,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,1859,0,724
+1784785176801,1303,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,47772,246,10,10,https://www.easycalculation.com/,307,0,0
+1784785176801,307,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-9,text,true,,362,121,10,10,https://easycalculation.com/,307,0,0
+1784785177109,995,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,47410,125,10,10,https://www.easycalculation.com/,642,0,0
+1784785176802,1343,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,47772,246,10,10,https://www.easycalculation.com/,319,0,0
+1784785176802,319,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-2,text,true,,362,121,10,10,https://easycalculation.com/,319,0,0
+1784785177122,1023,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,47410,125,10,10,https://www.easycalculation.com/,667,0,0
+1784785178106,163,example,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,872,113,10,10,https://example.com/,163,0,0
+1784785177714,558,Gui ,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,14907,114,10,10,https://octoperf.com/,400,0,0
+1784785178146,127,example,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,872,113,10,10,https://example.com/,126,0,0
+1784785178270,526,W3org,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,54789,112,10,10,https://www.w3.org/,125,0,0
+1784785177150,1719,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,47772,246,10,10,https://www.easycalculation.com/,315,0,0
+1784785177150,315,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-8,text,true,,362,121,10,10,https://easycalculation.com/,315,0,0
+1784785177466,1403,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,47410,125,10,10,https://www.easycalculation.com/,681,0,0
+1784785177150,1752,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,47772,246,10,10,https://www.easycalculation.com/,322,0,0
+1784785177150,322,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-3,text,true,,362,121,10,10,https://easycalculation.com/,322,0,0
+1784785177473,1429,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,47410,125,10,10,https://www.easycalculation.com/,727,0,0
+1784785178274,670,W3org,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,54790,112,10,10,https://www.w3.org/,274,0,0
+1784785177356,1591,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,47772,246,10,10,https://www.easycalculation.com/,356,0,0
+1784785177356,356,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-1,text,true,,362,121,10,10,https://easycalculation.com/,356,0,0
+1784785177714,1233,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,47410,125,10,10,https://www.easycalculation.com/,613,0,0
+1784785178872,76,example,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,872,113,10,10,https://example.com/,75,0,0
+1784785178904,55,example,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,872,113,10,10,https://example.com/,55,0,0
+1784785178948,73,example,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,872,113,10,10,https://example.com/,73,0,0
+1784785178949,375,W3org,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,54790,112,10,10,https://www.w3.org/,74,0,0
+1784785179022,456,W3org,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,54790,112,10,10,https://www.w3.org/,330,0,0
+1784785178960,623,W3org,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,54790,112,10,10,https://www.w3.org/,122,0,0
+1784785177402,2435,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,1429,0,679
+1784785178798,1072,info,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,1070,0,806
+1784785178945,1051,info,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,1050,0,801
+1784785179871,125,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-9,text,false,,329,119,10,10,https://www.wikipedia.org/,125,0,0
+1784785179996,151,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-2,text,false,,329,119,10,10,https://www.wikipedia.org/,151,0,0
+1784785179325,822,info,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,822,0,515
+1784785179839,351,Gui ,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,14907,114,10,10,https://octoperf.com/,304,0,0
+1784785178273,1923,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,47772,246,10,10,https://www.easycalculation.com/,642,0,0
+1784785178273,642,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-5,text,true,,362,121,10,10,https://easycalculation.com/,642,0,0
+1784785178916,1280,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,47410,125,10,10,https://www.easycalculation.com/,953,0,0
+1784785179479,723,info,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,722,0,481
+1784785180197,62,example,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,872,113,10,10,https://example.com/,62,0,0
+1784785180148,137,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-8,text,false,,329,119,10,10,https://www.wikipedia.org/,137,0,0
+1784785180203,113,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-1,text,false,,329,119,10,10,https://www.wikipedia.org/,113,0,0
+1784785180260,250,W3org,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,54790,112,10,10,https://www.w3.org/,91,0,0
+1784785179585,932,info,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,931,0,562
+1784785179996,524,httpbin,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,490,116,10,10,https://httpbin.org/get,524,0,0
+1784785180518,129,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-3,text,false,,329,119,10,10,https://www.wikipedia.org/,129,0,0
+1784785175212,5691,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,3702,0,2665
+1784785180522,480,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-9,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,480
+1784785180905,327,Gui ,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,14907,114,10,10,https://octoperf.com/,324,0,0
+1784785180512,801,info,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,799,0,524
+1784785180147,1192,httpbin,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,490,116,10,10,https://httpbin.org/get,1191,0,0
+1784785180317,1030,httpbin,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,490,116,10,10,https://httpbin.org/get,1030,0,0
+1784785181315,144,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-5,text,false,,329,119,10,10,https://www.wikipedia.org/,144,0,0
+1784785180286,1304,httpbin,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,490,116,10,10,https://httpbin.org/get,1304,0,0
+1784785181004,626,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,311,0,0
+1784785180192,1981,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,47772,246,10,10,https://www.easycalculation.com/,328,0,0
+1784785180192,328,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-10,text,true,,362,121,10,10,https://easycalculation.com/,328,0,0
+1784785180521,1652,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,47410,125,10,10,https://www.easycalculation.com/,631,0,0
+1784785180649,1525,httpbin,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,490,116,10,10,https://httpbin.org/get,1525,0,0
+1784785181349,825,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-1,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,824
+1784785181340,834,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-2,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,833
+1784785182176,61,example,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,872,113,10,10,https://example.com/,61,0,0
+1784785182238,232,W3org,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,54789,112,10,10,https://www.w3.org/,85,0,0
+1784785181591,890,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-8,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,889
+1784785182175,565,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-3,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,564
+1784785181233,1640,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,47772,246,10,10,https://www.easycalculation.com/,347,0,0
+1784785181233,347,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-4,text,true,,362,121,10,10,https://easycalculation.com/,347,0,0
+1784785181581,1292,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,47410,125,10,10,https://www.easycalculation.com/,929,0,0
+1784785181631,1269,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,543,0,0
+1784785182178,769,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,442,0,0
+1784785182178,894,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,460,0,0
+1784785182875,200,example,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,872,113,10,10,https://example.com/,199,0,0
+1784785182483,713,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,355,0,0
+1784785183076,323,W3org,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,54790,112,10,10,https://www.w3.org/,128,0,0
+1784785182471,966,info,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,965,0,606
+1784785182901,539,Gui ,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,14907,114,10,10,https://octoperf.com/,499,0,0
+1784785182740,700,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,342,0,0
+1784785183438,168,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-10,text,false,,329,119,10,10,https://www.wikipedia.org/,167,0,0
+1784785182948,1175,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,482,0,0
+1784785183073,1159,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,399,0,0
+1784785183197,1078,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,373,0,0
+1784785183400,902,info,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,901,0,635
+1784785184303,128,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-4,text,false,,329,119,10,10,https://www.wikipedia.org/,128,0,0
+1784785184277,204,Gui ,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,14906,114,10,10,https://octoperf.com/,116,0,0
+1784785184233,248,Gui ,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,14906,114,10,10,https://octoperf.com/,149,0,0
+1784785184125,356,Gui ,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,14907,114,10,10,https://octoperf.com/,257,0,0
+1784785183441,1060,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,399,0,0
+1784785183441,1339,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,47772,246,10,10,https://www.easycalculation.com/,355,0,0
+1784785183441,355,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-9,text,true,,362,121,10,10,https://easycalculation.com/,355,0,0
+1784785183797,983,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,47410,125,10,10,https://www.easycalculation.com/,641,0,0
+1784785184781,78,example,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,872,113,10,10,https://example.com/,78,0,0
+1784785184860,166,W3org,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,54790,112,10,10,https://www.w3.org/,59,0,0
+1784785184503,523,Gui ,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,14907,114,10,10,https://octoperf.com/,384,0,0
+1784785183607,1573,httpbin,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,490,116,10,10,https://httpbin.org/get,1573,0,0
+1784785185181,568,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-10,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,568
+1784785184482,1271,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,47772,246,10,10,https://www.easycalculation.com/,300,0,0
+1784785184482,300,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-8,text,true,,362,121,10,10,https://easycalculation.com/,300,0,0
+1784785184783,970,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,47410,125,10,10,https://www.easycalculation.com/,645,0,0
+1784785185027,760,info,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,759,0,517
+1784785184483,1380,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,47772,246,10,10,https://www.easycalculation.com/,299,0,0
+1784785184483,299,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-1,text,true,,362,121,10,10,https://easycalculation.com/,299,0,0
+1784785184783,1080,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,47410,125,10,10,https://www.easycalculation.com/,680,0,0
+1784785185789,123,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-9,text,false,,329,119,10,10,https://www.wikipedia.org/,123,0,0
+1784785184482,1430,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,47772,246,10,10,https://www.easycalculation.com/,300,0,0
+1784785185755,157,example,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,872,113,10,10,https://example.com/,157,0,0
+1784785184482,300,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-2,text,true,,362,121,10,10,https://easycalculation.com/,300,0,0
+1784785184783,1129,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,47410,125,10,10,https://www.easycalculation.com/,702,0,0
+1784785185865,52,example,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,872,113,10,10,https://example.com/,50,0,0
+1784785185913,156,example,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,872,113,10,10,https://example.com/,132,0,0
+1784785185913,379,W3org,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,54789,112,10,10,https://www.w3.org/,153,0,0
+1784785186071,407,W3org,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,54790,112,10,10,https://www.w3.org/,254,0,0
+1784785185918,582,W3org,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,54790,112,10,10,https://www.w3.org/,149,0,0
+1784785185027,1475,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,47772,246,10,10,https://www.easycalculation.com/,318,0,0
+1784785185027,318,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-3,text,true,,362,121,10,10,https://easycalculation.com/,318,0,0
+1784785185346,1156,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,47410,125,10,10,https://www.easycalculation.com/,634,0,0
+1784785186504,81,example,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,872,113,10,10,https://example.com/,80,0,0
+1784785185751,842,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,549,0,0
+1784785186587,215,W3org,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,54790,112,10,10,https://www.w3.org/,127,0,0
+1784785185913,1148,httpbin,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,490,116,10,10,https://httpbin.org/get,1148,0,0
+1784785186293,833,info,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,832,0,579
+1784785187128,120,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-8,text,false,,329,119,10,10,https://www.wikipedia.org/,120,0,0
+1784785186480,874,info,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,872,0,613
+1784785184432,2926,httpbin,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,490,116,10,10,https://httpbin.org/get,2926,0,0
+1784785186502,880,info,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,879,0,617
+1784785187355,128,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-2,text,false,,329,119,10,10,https://www.wikipedia.org/,128,0,0
+1784785187063,441,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-9,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,441
+1784785187383,142,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-1,text,false,,329,119,10,10,https://www.wikipedia.org/,142,0,0
+1784785186594,1053,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,352,0,0
+1784785186803,848,info,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,846,0,559
+1784785187652,146,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-3,text,false,,329,119,10,10,https://www.wikipedia.org/,146,0,0
+1784785187359,556,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-4,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,555
+1784785187485,481,httpbin,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,490,116,10,10,https://httpbin.org/get,481,0,0
+1784785187650,378,Gui ,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,14907,114,10,10,https://octoperf.com/,305,0,0
+1784785187505,608,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,321,0,0
+1784785187967,574,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-2,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,573
+1784785187917,679,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,467,0,0
+1784785187799,1105,httpbin,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,490,116,10,10,https://httpbin.org/get,1105,0,0
+1784785187250,1705,httpbin,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,490,116,10,10,https://httpbin.org/get,1705,0,0
+1784785188115,1103,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,370,0,0
+1784785188542,693,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,337,0,0
+1784785187526,1883,httpbin,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,490,116,10,10,https://httpbin.org/get,1883,0,0
+1784785188905,555,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-3,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,555
+1784785188957,515,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-8,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,515
+1784785188029,1890,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,47772,246,10,10,https://www.easycalculation.com/,356,0,0
+1784785188029,357,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-10,text,true,,362,121,10,10,https://easycalculation.com/,356,0,0
+1784785188386,1533,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,47410,125,10,10,https://www.easycalculation.com/,652,0,0
+1784785189220,789,Gui ,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,14907,114,10,10,https://octoperf.com/,786,0,0
+1784785189921,100,example,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,872,113,10,10,https://example.com/,100,0,0
+1784785190021,202,W3org,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,54790,112,10,10,https://www.w3.org/,84,0,0
+1784785189462,768,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,482,0,0
+1784785188597,1633,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,320,0,0
+1784785189410,821,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-1,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,821
+1784785189474,793,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,496,0,0
+1784785189236,1082,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,358,0,0
+1784785190233,271,Gui ,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,14907,114,10,10,https://octoperf.com/,269,0,0
+1784785190319,199,Gui ,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,14906,114,10,10,https://octoperf.com/,196,0,0
+1784785190233,673,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,365,0,0
+1784785190224,886,info,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,885,0,573
+1784785190232,1006,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,330,0,0
+1784785191111,174,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-10,text,false,,329,119,10,10,https://www.wikipedia.org/,174,0,0
+1784785190267,1103,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,394,0,0
+1784785190010,1386,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,47772,246,10,10,https://www.easycalculation.com/,298,0,0
+1784785190010,298,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-9,text,true,,362,121,10,10,https://easycalculation.com/,298,0,0
+1784785190309,1087,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,47410,125,10,10,https://www.easycalculation.com/,736,0,0
+1784785191397,233,example,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,872,113,10,10,https://example.com/,214,0,0
+1784785191371,423,Gui ,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,14906,114,10,10,https://octoperf.com/,292,0,0
+1784785191239,559,Gui ,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,14907,114,10,10,https://octoperf.com/,392,0,0
+1784785190505,1698,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,47772,246,10,10,https://www.easycalculation.com/,316,0,0
+1784785190505,316,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-4,text,true,,362,121,10,10,https://easycalculation.com/,316,0,0
+1784785190822,1381,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,47410,125,10,10,https://www.easycalculation.com/,861,0,0
+1784785190519,1715,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,47772,246,10,10,https://www.easycalculation.com/,302,0,0
+1784785190519,303,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-2,text,true,,362,121,10,10,https://easycalculation.com/,302,0,0
+1784785190823,1411,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,47410,125,10,10,https://www.easycalculation.com/,905,0,0
+1784785190907,1471,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,365,0,0
+1784785191631,748,W3org,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,54790,112,10,10,https://www.w3.org/,319,0,0
+1784785192204,175,example,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,872,113,10,10,https://example.com/,175,0,0
+1784785192235,147,example,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,872,113,10,10,https://example.com/,146,0,0
+1784785192380,269,W3org,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,54790,112,10,10,https://www.w3.org/,88,0,0
+1784785192383,374,W3org,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,54790,112,10,10,https://www.w3.org/,284,0,0
+1784785192379,506,Gui ,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,14907,114,10,10,https://octoperf.com/,422,0,0
+1784785192380,887,info,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,885,0,645
+1784785191795,1589,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,47772,246,10,10,https://www.easycalculation.com/,439,0,0
+1784785191795,439,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-8,text,true,,362,121,10,10,https://easycalculation.com/,439,0,0
+1784785192234,1150,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,47410,125,10,10,https://www.easycalculation.com/,839,0,0
+1784785191799,1593,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,47772,246,10,10,https://www.easycalculation.com/,435,0,0
+1784785191799,435,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-3,text,true,,362,121,10,10,https://easycalculation.com/,435,0,0
+1784785192234,1158,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,47410,125,10,10,https://www.easycalculation.com/,852,0,0
+1784785193267,127,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-9,text,false,,329,119,10,10,https://www.wikipedia.org/,127,0,0
+1784785192650,758,info,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,756,0,509
+1784785193386,54,example,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,872,113,10,10,https://example.com/,54,0,0
+1784785193394,59,example,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,872,113,10,10,https://example.com/,58,0,0
+1784785193453,207,W3org,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,54789,112,10,10,https://www.w3.org/,73,0,0
+1784785193441,225,W3org,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,54790,112,10,10,https://www.w3.org/,78,0,0
+1784785193409,259,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-4,text,false,,329,119,10,10,https://www.wikipedia.org/,259,0,0
+1784785192757,915,info,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,913,0,529
+1784785193673,130,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-2,text,false,,329,119,10,10,https://www.wikipedia.org/,130,0,0
+1784785192886,1239,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,47772,246,10,10,https://www.easycalculation.com/,300,0,0
+1784785192886,300,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-1,text,true,,362,121,10,10,https://easycalculation.com/,300,0,0
+1784785193186,939,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,47410,125,10,10,https://www.easycalculation.com/,607,0,0
+1784785194126,54,example,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,872,113,10,10,https://example.com/,53,0,0
+1784785194180,216,W3org,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,54790,112,10,10,https://www.w3.org/,88,0,0
+1784785193668,742,info,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,741,0,492
+1784785193662,748,info,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,747,0,497
+1784785194412,130,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-8,text,false,,329,119,10,10,https://www.wikipedia.org/,130,0,0
+1784785194412,132,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-3,text,false,,329,119,10,10,https://www.wikipedia.org/,132,0,0
+1784785193668,932,httpbin,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,490,116,10,10,https://httpbin.org/get,932,0,0
+1784785170603,24057,httpbin,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,490,116,10,10,https://httpbin.org/get,24057,0,1039
+1784785193804,856,httpbin,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,490,116,10,10,https://httpbin.org/get,856,0,0
+1784785194661,440,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-2,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,439
+1784785194602,512,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-4,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,512
+1784785194397,766,info,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,764,0,506
+1784785194664,501,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-7,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,501
+1784785195166,143,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-1,text,false,,329,119,10,10,https://www.wikipedia.org/,143,0,0
+1784785195115,640,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,334,0,0
+1784785195103,652,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,346,0,0
+1784785194543,1384,httpbin,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,490,116,10,10,https://httpbin.org/get,1384,0,0
+1784785195928,491,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-8,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,491
+1784785195171,1352,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,1018,0,662
+1784785195757,984,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,342,0,0
+1784785195756,1150,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,426,0,0
+1784785196421,601,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,330,0,0
+1784785196743,535,Gui ,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,14907,114,10,10,https://octoperf.com/,376,0,0
+1784785196907,373,Gui ,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,14906,114,10,10,https://octoperf.com/,212,0,0
+1784785197022,1363,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,351,0,0
+1784785196527,1885,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,1214,0,761
+1784785198413,237,Gui ,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,14906,114,10,10,https://octoperf.com/,235,0,0
+1784785198387,266,Gui ,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,14907,114,10,10,https://octoperf.com/,264,0,0
+1784785197281,1452,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,47772,246,10,10,https://www.easycalculation.com/,459,0,0
+1784785197281,459,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-4,text,true,,362,121,10,10,https://easycalculation.com/,459,0,0
+1784785197741,992,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,47410,125,10,10,https://www.easycalculation.com/,685,0,0
+1784785198734,46,example,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,872,113,10,10,https://example.com/,46,0,0
+1784785198781,110,W3org,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,54789,112,10,10,https://www.w3.org/,57,0,0
+1784785197280,1618,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,47772,246,10,10,https://www.easycalculation.com/,461,0,0
+1784785197280,461,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-2,text,true,,362,121,10,10,https://easycalculation.com/,461,0,0
+1784785197742,1156,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,47410,125,10,10,https://www.easycalculation.com/,848,0,0
+1784785198899,101,example,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,872,113,10,10,https://example.com/,101,0,0
+1784785199001,162,W3org,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,54790,112,10,10,https://www.w3.org/,87,0,0
+1784785198892,841,info,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,840,0,520
+1784785198654,1216,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,47772,246,10,10,https://www.easycalculation.com/,295,0,0
+1784785198654,295,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-8,text,true,,362,121,10,10,https://easycalculation.com/,295,0,0
+1784785198950,920,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,47410,125,10,10,https://www.easycalculation.com/,598,0,0
+1784785199734,136,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-4,text,false,,329,119,10,10,https://www.wikipedia.org/,136,0,0
+1784785199871,77,example,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,872,113,10,10,https://example.com/,71,0,0
+1784785198651,1300,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,47772,246,10,10,https://www.easycalculation.com/,314,0,0
+1784785198651,314,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-7,text,true,,362,121,10,10,https://easycalculation.com/,314,0,0
+1784785198966,985,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,47410,125,10,10,https://www.easycalculation.com/,633,0,0
+1784785199164,808,info,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,807,0,573
+1784785199952,198,example,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,872,113,10,10,https://example.com/,198,0,0
+1784785199949,302,W3org,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,54790,112,10,10,https://www.w3.org/,89,0,0
+1784785199973,282,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-2,text,false,,329,119,10,10,https://www.wikipedia.org/,282,0,0
+1784785200156,204,W3org,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,54790,112,10,10,https://www.w3.org/,108,0,0
+1784785200257,830,httpbin,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,490,116,10,10,https://httpbin.org/get,830,0,0
+1784785200252,908,info,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,906,0,540
+1784785200362,815,info,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,2450,143,10,10,https://info.cern.ch/hypertext/WWW/TheProject.html,814,0,491
+1784785201161,356,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-8,text,false,,329,119,10,10,https://www.wikipedia.org/,356,0,0
+1784785201178,340,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-7,text,false,,329,119,10,10,https://www.wikipedia.org/,340,0,0
+1784785199872,1684,httpbin,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,490,116,10,10,https://httpbin.org/get,1684,0,0
+1784785170553,31129,httpbin,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,490,116,10,10,https://httpbin.org/get,31129,0,1077
+1784785201088,684,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-2,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,684
+1784785201558,590,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-4,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,590
+1784785201684,579,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-6,text,false,,3045,0,10,10,https://www.free-css.com/,0,0,579
+1784785201774,693,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,374,0,0
+1784785202150,653,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,11273,128,10,10,https://quotes.toscrape.com/page/1/,317,0,0
+1784785201519,1839,httpbin,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,490,116,10,10,https://httpbin.org/get,1839,0,0
+1784785202468,1001,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-2,text,true,,51579,130,10,10,https://books.toscrape.com/index.html,336,0,0
+1784785202267,1662,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,11273,128,9,9,https://quotes.toscrape.com/page/1/,1091,0,641
+1784785203359,634,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-7,text,false,,3045,0,9,9,https://www.free-css.com/,0,0,634
+1784785202805,1496,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,51579,130,9,9,https://books.toscrape.com/index.html,552,0,0
+1784785203993,641,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,11273,128,9,9,https://quotes.toscrape.com/page/1/,325,0,0
+1784785204301,465,Gui ,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,14907,114,9,9,https://octoperf.com/,363,0,0
+1784785203932,1643,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,51579,130,9,9,https://books.toscrape.com/index.html,944,0,626
+1784785204634,1154,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,51579,130,9,9,https://books.toscrape.com/index.html,320,0,0
+1784785205576,359,Gui ,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,14907,114,9,9,https://octoperf.com/,293,0,0
+1784785204766,1468,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,47772,246,9,9,https://www.easycalculation.com/,312,0,0
+1784785204766,312,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-4,text,true,,362,121,9,9,https://easycalculation.com/,312,0,0
+1784785205078,1156,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,47410,125,9,9,https://www.easycalculation.com/,718,0,0
+1784785205789,521,Gui ,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,14907,114,9,9,https://octoperf.com/,499,0,0
+1784785206235,108,example,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,872,113,9,9,https://example.com/,108,0,0
+1784785206344,160,W3org,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,54789,112,9,9,https://www.w3.org/,122,0,0
+1784785205936,1377,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,47772,246,9,9,https://www.easycalculation.com/,377,0,0
+1784785205936,377,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-6,text,true,,362,121,9,9,https://easycalculation.com/,377,0,0
+1784785206313,1000,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,47410,125,9,9,https://www.easycalculation.com/,652,0,0
+1784785207313,57,example,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,872,113,9,9,https://example.com/,56,0,0
+1784785206505,1284,info,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,2450,143,9,9,https://info.cern.ch/hypertext/WWW/TheProject.html,1283,0,700
+1784785207370,435,W3org,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,54790,112,9,9,https://www.w3.org/,133,0,0
+1784785206310,1501,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,47772,246,9,9,https://www.easycalculation.com/,331,0,0
+1784785206310,331,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-7,text,true,,362,121,9,9,https://easycalculation.com/,331,0,0
+1784785206641,1170,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,47410,125,9,9,https://www.easycalculation.com/,735,0,0
+1784785207790,131,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-4,text,false,,329,119,9,9,https://www.wikipedia.org/,131,0,0
+1784785207812,110,example,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,872,113,9,9,https://example.com/,109,0,0
+1784785207923,172,W3org,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,54790,112,9,9,https://www.w3.org/,71,0,0
+1784785207807,841,info,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,2450,143,9,9,https://info.cern.ch/hypertext/WWW/TheProject.html,841,0,604
+1784785208648,148,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-6,text,false,,329,119,9,9,https://www.wikipedia.org/,148,0,0
+1784785208096,776,info,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,2450,143,9,9,https://info.cern.ch/hypertext/WWW/TheProject.html,774,0,484
+1784785208873,124,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-7,text,false,,329,119,9,9,https://www.wikipedia.org/,124,0,0
+1784785207923,1908,httpbin,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,490,116,9,9,https://httpbin.org/get,1908,0,0
+1784785209832,511,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-4,text,false,,3045,0,9,9,https://www.free-css.com/,0,0,511
+1784785193395,17370,httpbin,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,490,116,9,9,https://httpbin.org/get,17370,0,0
+1784785210346,754,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,11273,128,9,9,https://quotes.toscrape.com/page/1/,440,0,0
+1784785210765,781,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-9,text,false,,3045,0,9,9,https://www.free-css.com/,0,0,781
+1784785211550,694,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,11273,128,9,9,https://quotes.toscrape.com/page/1/,389,0,0
+1784785211101,1584,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-4,text,true,,51579,130,9,9,https://books.toscrape.com/index.html,535,0,0
+1784785191287,21542,httpbin,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,490,116,8,8,https://httpbin.org/get,21542,0,0
+1784785212245,1299,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,51579,130,8,8,https://books.toscrape.com/index.html,442,0,0
+1784785212831,714,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-10,text,false,,3045,0,8,8,https://www.free-css.com/,0,0,714
+1784785213545,514,Gui ,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,14907,114,8,8,https://octoperf.com/,397,0,0
+1784785213548,773,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,11273,128,8,8,https://quotes.toscrape.com/page/1/,470,0,0
+1784785181460,33388,httpbin,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,490,116,8,8,https://httpbin.org/get,33388,0,0
+1784785214849,419,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-5,text,false,,3045,0,8,8,https://www.free-css.com/,0,0,419
+1784785214060,1454,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,47772,246,8,8,https://www.easycalculation.com/,526,0,0
+1784785214060,526,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-9,text,true,,362,121,8,8,https://easycalculation.com/,526,0,0
+1784785214586,928,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,47410,125,8,8,https://www.easycalculation.com/,631,0,0
+1784785214322,1269,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,51579,130,8,8,https://books.toscrape.com/index.html,359,0,0
+1784785215515,97,example,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,872,113,8,8,https://example.com/,96,0,0
+1784785215612,83,W3org,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,54790,112,8,8,https://www.w3.org/,71,0,0
+1784785215270,619,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,11273,128,8,8,https://quotes.toscrape.com/page/1/,314,0,0
+1784785215596,366,Gui ,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,14907,114,8,8,https://octoperf.com/,244,0,0
+1784785215696,718,info,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,2450,143,8,8,https://info.cern.ch/hypertext/WWW/TheProject.html,717,0,477
+1784785216415,114,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-9,text,false,,329,119,8,8,https://www.wikipedia.org/,114,0,0
+1784785215891,1197,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,51579,130,8,8,https://books.toscrape.com/index.html,308,0,0
+1784785215963,1165,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,47772,246,8,8,https://www.easycalculation.com/,290,0,0
+1784785215963,290,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-10,text,true,,362,121,8,8,https://easycalculation.com/,290,0,0
+1784785216253,875,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,47410,125,8,8,https://www.easycalculation.com/,590,0,0
+1784785217128,65,example,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,872,113,8,8,https://example.com/,65,0,0
+1784785217194,123,W3org,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,54790,112,8,8,https://www.w3.org/,107,0,0
+1784785216529,896,httpbin,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,490,116,8,8,https://httpbin.org/get,896,0,0
+1784785217089,459,Gui ,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,14907,114,8,8,https://octoperf.com/,341,0,0
+1784785217425,421,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-9,text,false,,3045,0,8,8,https://www.free-css.com/,0,0,421
+1784785217318,725,info,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,2450,143,8,8,https://info.cern.ch/hypertext/WWW/TheProject.html,725,0,457
+1784785218043,151,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-10,text,false,,329,119,8,8,https://www.wikipedia.org/,151,0,0
+1784785217847,794,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,11273,128,8,8,https://quotes.toscrape.com/page/1/,346,0,0
+1784785217549,1471,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,47772,246,8,8,https://www.easycalculation.com/,297,0,0
+1784785217549,297,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-5,text,true,,362,121,8,8,https://easycalculation.com/,297,0,0
+1784785217846,1174,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,47410,125,8,8,https://www.easycalculation.com/,795,0,0
+1784785219022,50,example,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,872,113,8,8,https://example.com/,50,0,0
+1784785219074,76,W3org,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,54789,112,8,8,https://www.w3.org/,48,0,0
+1784785218641,995,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-9,text,true,,51579,130,8,8,https://books.toscrape.com/index.html,379,0,0
+1784785219151,690,info,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,2450,143,7,7,https://info.cern.ch/hypertext/WWW/TheProject.html,688,0,462
+1784785219842,113,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-5,text,false,,329,119,7,7,https://www.wikipedia.org/,113,0,0
+1784785218195,3094,httpbin,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,490,116,7,7,https://httpbin.org/get,3094,0,0
+1784785219956,1333,httpbin,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,490,116,7,7,https://httpbin.org/get,1333,0,0
+1784785221289,724,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-10,text,false,,3045,0,7,7,https://www.free-css.com/,0,0,724
+1784785221290,729,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-5,text,false,,3045,0,7,7,https://www.free-css.com/,0,0,728
+1784785222015,624,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,11273,128,7,7,https://quotes.toscrape.com/page/1/,319,0,0
+1784785222020,620,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,11273,128,7,7,https://quotes.toscrape.com/page/1/,320,0,0
+1784785222642,995,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,51579,130,7,7,https://books.toscrape.com/index.html,322,0,0
+1784785223638,474,Gui ,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,14907,114,7,7,https://octoperf.com/,347,0,0
+1784785222642,1522,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,51579,130,7,7,https://books.toscrape.com/index.html,315,0,0
+1784785224165,608,Gui ,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,14907,114,7,7,https://octoperf.com/,491,0,162
+1784785224113,1146,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,47772,246,7,7,https://www.easycalculation.com/,296,0,0
+1784785224113,296,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-10,text,true,,362,121,7,7,https://easycalculation.com/,296,0,0
+1784785224410,849,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,47410,125,7,7,https://www.easycalculation.com/,572,0,0
+1784785225260,43,example,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,872,113,7,7,https://example.com/,43,0,0
+1784785225306,55,W3org,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,54789,112,7,7,https://www.w3.org/,53,0,0
+1784785225361,737,info,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,2450,143,7,7,https://info.cern.ch/hypertext/WWW/TheProject.html,735,0,474
+1784785226098,106,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-10,text,false,,329,119,7,7,https://www.wikipedia.org/,106,0,0
+1784785208998,17905,httpbin,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,490,116,7,7,https://httpbin.org/get,17905,0,0
+1784785226204,981,httpbin,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,490,116,7,7,https://httpbin.org/get,981,0,0
+1784785224775,2546,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,47772,246,7,7,https://www.easycalculation.com/,985,0,664
+1784785224775,985,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-5,text,true,,362,121,7,7,https://easycalculation.com/,985,0,664
+1784785225761,1560,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,47410,125,7,7,https://www.easycalculation.com/,1263,0,641
+1784785226904,426,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-7,text,false,,3045,0,7,7,https://www.free-css.com/,0,0,426
+1784785227323,167,example,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,872,113,7,7,https://example.com/,167,0,124
+1784785227491,167,W3org,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,54790,112,7,7,https://www.w3.org/,140,0,95
+1784785227185,485,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-10,text,false,,3045,0,7,7,https://www.free-css.com/,0,0,485
+1784785227331,620,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,11273,128,7,7,https://quotes.toscrape.com/page/1/,327,0,0
+1784785227672,621,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,11273,128,7,7,https://quotes.toscrape.com/page/1/,303,0,0
+1784785227660,744,info,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,2450,143,7,7,https://info.cern.ch/hypertext/WWW/TheProject.html,744,0,494
+1784785228405,100,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-5,text,false,,329,119,7,7,https://www.wikipedia.org/,100,0,0
+1784785227952,893,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,51579,130,7,7,https://books.toscrape.com/index.html,300,0,0
+1784785228293,930,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-10,text,true,,51579,130,7,7,https://books.toscrape.com/index.html,318,0,0
+1784785228846,528,Gui ,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,14907,114,6,6,https://octoperf.com/,408,0,59
+1784785194545,35550,httpbin,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,490,116,6,6,https://httpbin.org/get,35550,0,0
+1784785230099,381,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-3,text,false,,3045,0,6,6,https://www.free-css.com/,0,0,381
+1784785230480,706,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,11273,128,6,6,https://quotes.toscrape.com/page/1/,310,0,0
+1784785229374,2520,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,47772,246,6,6,https://www.easycalculation.com/,889,0,608
+1784785229374,889,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-7,text,true,,362,121,6,6,https://easycalculation.com/,889,0,608
+1784785230263,1631,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,47410,125,6,6,https://www.easycalculation.com/,1318,0,589
+1784785231895,121,example,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,872,113,6,6,https://example.com/,121,0,56
+1784785232016,201,W3org,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,54790,112,6,6,https://www.w3.org/,168,0,126
+1784785231186,1034,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,51579,130,6,6,https://books.toscrape.com/index.html,394,0,0
+1784785232220,524,Gui ,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,14907,114,6,6,https://octoperf.com/,415,0,86
+1784785232217,729,info,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,2450,143,6,6,https://info.cern.ch/hypertext/WWW/TheProject.html,728,0,499
+1784785232947,308,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-7,text,false,,329,119,6,6,https://www.wikipedia.org/,308,0,213
+1784785233256,1348,httpbin,503,Service Temporarily Unavailable,Non Gui TestCases using CSV files 1-7,text,false,,337,116,6,6,https://httpbin.org/get,1347,0,1032
+1784785234605,510,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-7,text,false,,3045,0,6,6,https://www.free-css.com/,0,0,509
+1784785232746,2533,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,47772,246,6,6,https://www.easycalculation.com/,944,0,608
+1784785232746,944,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-3,text,true,,362,121,6,6,https://easycalculation.com/,944,0,608
+1784785233691,1588,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,47410,125,6,6,https://www.easycalculation.com/,1206,0,604
+1784785235280,181,example,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,872,113,6,6,https://example.com/,180,0,130
+1784785235462,136,W3org,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,54789,112,6,6,https://www.w3.org/,119,0,80
+1784785235118,794,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,11273,128,6,6,https://quotes.toscrape.com/page/1/,443,0,0
+1784785235601,839,info,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,2450,143,6,6,https://info.cern.ch/hypertext/WWW/TheProject.html,837,0,540
+1784785236441,485,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-3,text,false,,329,119,6,6,https://www.wikipedia.org/,485,0,314
+1784785235912,1183,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,51579,130,6,6,https://books.toscrape.com/index.html,323,0,0
+1784785237096,359,Gui ,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,14907,114,6,6,https://octoperf.com/,283,0,0
+1784785201519,36578,httpbin,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,490,116,6,6,https://httpbin.org/get,36578,0,0
+1784785195310,43088,httpbin,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,490,116,6,6,https://httpbin.org/get,43088,0,0
+1784785238099,568,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-8,text,false,,3045,0,6,6,https://www.free-css.com/,0,0,568
+1784785236927,1821,httpbin,503,Service Temporarily Unavailable,Non Gui TestCases using CSV files 1-3,text,false,,337,116,6,6,https://httpbin.org/get,1821,0,1472
+1784785238399,545,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-1,text,false,,3045,0,6,6,https://www.free-css.com/,0,0,545
+1784785237455,1655,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,47772,246,6,6,https://www.easycalculation.com/,652,0,0
+1784785237455,652,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-7,text,true,,362,121,6,6,https://easycalculation.com/,652,0,0
+1784785238108,1002,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,47410,125,6,6,https://www.easycalculation.com/,699,0,0
+1784785239111,49,example,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,872,113,6,6,https://example.com/,49,0,0
+1784785239161,109,W3org,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,54790,112,6,6,https://www.w3.org/,80,0,0
+1784785238748,529,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-3,text,false,,3045,0,6,6,https://www.free-css.com/,0,0,529
+1784785238667,1316,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,11273,128,6,6,https://quotes.toscrape.com/page/1/,972,0,642
+1784785239272,952,info,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,2450,143,6,6,https://info.cern.ch/hypertext/WWW/TheProject.html,951,0,719
+1784785238946,1324,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,11273,128,6,6,https://quotes.toscrape.com/page/1/,1041,0,696
+1784785240224,101,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-7,text,false,,329,119,6,6,https://www.wikipedia.org/,101,0,0
+1784785239280,1313,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,11273,128,6,6,https://quotes.toscrape.com/page/1/,1020,0,715
+1784785240325,345,httpbin,503,Service Temporarily Unavailable,Non Gui TestCases using CSV files 1-7,text,false,,337,116,6,6,https://httpbin.org/get,345,0,0
+1784785240671,577,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-7,text,false,,3045,0,6,6,https://www.free-css.com/,0,0,576
+1784785239985,1868,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-8,text,true,,51579,130,6,6,https://books.toscrape.com/index.html,1028,0,652
+1784785241249,651,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,11273,128,5,5,https://quotes.toscrape.com/page/1/,331,0,0
+1784785240271,1971,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,51579,130,5,5,https://books.toscrape.com/index.html,1151,0,744
+1784785242243,400,Gui ,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,14907,114,5,5,https://octoperf.com/,398,0,124
+1784785240594,2078,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-3,text,true,,51579,130,5,5,https://books.toscrape.com/index.html,1292,0,837
+1784785241900,1165,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-7,text,true,,51579,130,4,4,https://books.toscrape.com/index.html,378,0,0
+1784785242644,3178,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,47772,246,3,3,https://www.easycalculation.com/,1233,0,645
+1784785242644,1233,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-1,text,true,,362,121,3,3,https://easycalculation.com/,1233,0,645
+1784785243878,1944,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,47410,125,3,3,https://www.easycalculation.com/,1464,0,843
+1784785245823,360,example,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,872,113,3,3,https://example.com/,360,0,219
+1784785246185,157,W3org,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,54790,112,3,3,https://www.w3.org/,141,0,103
+1784785246343,714,info,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,2450,143,3,3,https://info.cern.ch/hypertext/WWW/TheProject.html,712,0,491
+1784785247058,367,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-1,text,false,,329,119,3,3,https://www.wikipedia.org/,367,0,256
+1784785208797,40437,httpbin,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,490,116,3,3,https://httpbin.org/get,40437,0,0
+1784785249235,1105,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-6,text,false,,3045,0,3,3,https://www.free-css.com/,0,0,1105
+1784785247426,2984,httpbin,503,Service Temporarily Unavailable,Non Gui TestCases using CSV files 1-1,text,false,,337,116,3,3,https://httpbin.org/get,2984,0,2496
+1784785250411,483,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-1,text,false,,3045,0,3,3,https://www.free-css.com/,0,0,483
+1784785250342,620,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,11273,128,3,3,https://quotes.toscrape.com/page/1/,314,0,0
+1784785250897,673,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,11273,128,3,3,https://quotes.toscrape.com/page/1/,318,0,0
+1784785250963,1329,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,51579,130,3,3,https://books.toscrape.com/index.html,607,0,0
+1784785251571,1619,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-1,text,true,,51579,130,3,3,https://books.toscrape.com/index.html,771,0,0
+1784785252293,1217,Gui ,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,14907,114,2,2,https://octoperf.com/,1172,0,517
+1784785253511,3638,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,47772,246,2,2,https://www.easycalculation.com/,1788,0,1359
+1784785253511,1788,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-6,text,true,,362,121,2,2,https://easycalculation.com/,1788,0,1359
+1784785255299,1850,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,47410,125,2,2,https://www.easycalculation.com/,1525,0,783
+1784785257150,194,example,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,872,113,2,2,https://example.com/,191,0,124
+1784785257346,348,W3org,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,54790,112,2,2,https://www.w3.org/,263,0,196
+1784785257695,817,info,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,2450,143,2,2,https://info.cern.ch/hypertext/WWW/TheProject.html,815,0,553
+1784785258513,381,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-6,text,false,,329,119,2,2,https://www.wikipedia.org/,381,0,260
+1784785258895,1761,httpbin,503,Service Temporarily Unavailable,Non Gui TestCases using CSV files 1-6,text,false,,337,116,2,2,https://httpbin.org/get,1761,0,1432
+1784785260661,476,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-6,text,false,,3045,0,2,2,https://www.free-css.com/,0,0,475
+1784785261140,611,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,11273,128,2,2,https://quotes.toscrape.com/page/1/,315,0,0
+1784785261752,1055,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,51579,130,2,2,https://books.toscrape.com/index.html,334,0,0
+1784785262808,384,Gui ,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,14907,114,2,2,https://octoperf.com/,278,0,0
+1784785263193,1852,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,47772,246,2,2,https://www.easycalculation.com/,565,0,0
+1784785263193,565,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-6,text,true,,362,121,2,2,https://easycalculation.com/,565,0,0
+1784785263759,1286,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,47410,125,2,2,https://www.easycalculation.com/,822,0,0
+1784785265046,54,example,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,872,113,2,2,https://example.com/,53,0,0
+1784785265100,213,W3org,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,54790,112,2,2,https://www.w3.org/,56,0,0
+1784785265313,840,info,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,2450,143,2,2,https://info.cern.ch/hypertext/WWW/TheProject.html,840,0,587
+1784785266153,135,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-6,text,false,,329,119,2,2,https://www.wikipedia.org/,135,0,0
+1784785266290,342,httpbin,503,Service Temporarily Unavailable,Non Gui TestCases using CSV files 1-6,text,false,,337,116,2,2,https://httpbin.org/get,342,0,0
+1784785266632,439,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-6,text,false,,3045,0,2,2,https://www.free-css.com/,0,0,438
+1784785267074,1364,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,11273,128,2,2,https://quotes.toscrape.com/page/1/,1059,0,726
+1784785268439,2344,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,51579,130,2,2,https://books.toscrape.com/index.html,1697,0,1041
+1784785270784,364,Gui ,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,14907,114,2,2,https://octoperf.com/,304,0,0
+1784785228506,43171,httpbin,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,490,116,2,2,https://httpbin.org/get,43171,0,0
+1784785271678,440,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-5,text,false,,3045,0,2,2,https://www.free-css.com/,0,0,440
+1784785271148,1464,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,47772,246,2,2,https://www.easycalculation.com/,523,0,0
+1784785271148,523,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-6,text,true,,362,121,2,2,https://easycalculation.com/,523,0,0
+1784785271671,941,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,47410,125,2,2,https://www.easycalculation.com/,642,0,0
+1784785272613,34,example,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,872,113,2,2,https://example.com/,34,0,0
+1784785272649,71,W3org,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,54789,112,2,2,https://www.w3.org/,54,0,0
+1784785272120,1181,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,11273,128,2,2,https://quotes.toscrape.com/page/1/,903,0,601
+1784785272721,648,info,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,2450,143,2,2,https://info.cern.ch/hypertext/WWW/TheProject.html,647,0,436
+1784785273370,109,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-6,text,false,,329,119,2,2,https://www.wikipedia.org/,109,0,0
+1784785273480,300,httpbin,503,Service Temporarily Unavailable,Non Gui TestCases using CSV files 1-6,text,false,,337,116,2,2,https://httpbin.org/get,300,0,0
+1784785273781,464,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-6,text,false,,3045,0,2,2,https://www.free-css.com/,0,0,464
+1784785273302,1535,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,51579,130,2,2,https://books.toscrape.com/index.html,913,0,602
+1784785274247,682,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,11273,128,2,2,https://quotes.toscrape.com/page/1/,351,0,0
+1784785274838,467,Gui ,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,14907,114,2,2,https://octoperf.com/,386,0,0
+1784785274930,922,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-6,text,true,,51579,130,2,2,https://books.toscrape.com/index.html,321,0,0
+1784785275306,1384,Practice Automation,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,47772,246,1,1,https://www.easycalculation.com/,344,0,0
+1784785275306,344,Practice Automation-0,301,Moved Permanently,Non Gui TestCases using CSV files 1-5,text,true,,362,121,1,1,https://easycalculation.com/,344,0,0
+1784785275651,1039,Practice Automation-1,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,47410,125,1,1,https://www.easycalculation.com/,677,0,0
+1784785276691,57,example,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,873,113,1,1,https://example.com/,56,0,0
+1784785276748,67,W3org,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,54790,112,1,1,https://www.w3.org/,66,0,0
+1784785276816,871,info,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,2450,143,1,1,https://info.cern.ch/hypertext/WWW/TheProject.html,871,0,621
+1784785277688,342,wikkepedia,403,Forbidden,Non Gui TestCases using CSV files 1-5,text,false,,329,119,1,1,https://www.wikipedia.org/,342,0,225
+1784785278031,1223,httpbin,503,Service Temporarily Unavailable,Non Gui TestCases using CSV files 1-5,text,false,,337,116,1,1,https://httpbin.org/get,1223,0,935
+1784785279255,425,freecsstemplate,Non HTTP response code: javax.net.ssl.SSLException,Non HTTP response message: (internal_error) Received fatal alert: internal_error,Non Gui TestCases using CSV files 1-5,text,false,,3045,0,1,1,https://www.free-css.com/,0,0,425
+1784785279681,700,quotestoscrape,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,11273,128,1,1,https://quotes.toscrape.com/page/1/,316,0,0
+1784785280382,1014,bookstoscrape,200,OK,Non Gui TestCases using CSV files 1-5,text,true,,51579,130,1,1,https://books.toscrape.com/index.html,320,0,0
